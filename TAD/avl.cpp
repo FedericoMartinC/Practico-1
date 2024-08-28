@@ -185,6 +185,7 @@ public:
     {
         inOrder(root, each);
     }
+
 };
 
 #endif
